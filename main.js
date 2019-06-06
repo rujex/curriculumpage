@@ -54,11 +54,11 @@ __webpack_require__.r(__webpack_exports__);
 var routes = [
     {
         path: '',
-        redirectTo: 'inicio',
+        redirectTo: '',
         pathMatch: 'full'
     },
     {
-        path: 'inicio',
+        path: '',
         component: _views_home_home_component__WEBPACK_IMPORTED_MODULE_3__["HomeComponent"],
     },
     {
